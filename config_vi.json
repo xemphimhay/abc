@@ -7,8 +7,8 @@
     "config": "Xem qua web",
     "urlApiGetStream": "",
     "streamByWebEmbed": false,
-    "premium" : "40.000,/3 tháng",
-    "unlimited" : "100.000,/vĩnh viễn",
+    "premium" : "1.000,/3 tháng",
+    "unlimited" : "1.000,/vĩnh viễn",
     "listServers" : "",
     "movieOnlyForPremium": true,
     "watchAdsToAccessPremiumMovie": true,
@@ -31,10 +31,10 @@
     "listBanners":[
       {
         "_id": "603a0cc3aeafd82893d77161",
-        "urlDetail": "https://phimmoichillg.net/info/ban-gai-lau-duoi-xin-ky-nhan-pm12801",
-        "urlPhoto": "https://image.tmdb.org/t/p/original/9WmZtqgS2uhTbD3HvgkA8Xetl7V.jpg",
+        "urlDetail": "https://ophim1.com/phim/nguoi-xa-la-2023",
+        "urlPhoto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fasianwiki.com%2Fimages%2F6%2F69%2FNot_Others-p1.jpg",
         "title": "Hành Động  •  Phiêu Lưu •  Viễn Tưởng  •  Khoa Học",
-        "logo": "https://pic6.iqiyipic.com/hamster/20210812/63/cc/91d00cc139_xxx.webp"
+        "logo": "https://i.imgur.com/DIegakg.png"
       },
       {
         "_id": "603a0cc3aeafd82893d77163",
